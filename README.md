@@ -3,7 +3,7 @@
 # About Me
 I am Carlie Yew, a Software Engineer(particularly in Web) graduated as Hons Degree from University Technology of Sarawak. 
 
-🍄 I use Javascript & Typescript, Golang, Dart Lang, C, MySQL, PostgreSQL, MongoDB, REST api, gRPC and GraphQL to do things. 
+🍄 I use Javascript & Typescript, Golang, Dart Lang, C, MySQL, PostgreSQL, Redis, MongoDB, REST api, gRPC and GraphQL to do things. 
 
 🌟 I have about 2 years experience in Web and Hybrid App development which mostly about Vue.js, React.js, Flutter.
 
