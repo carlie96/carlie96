@@ -11,9 +11,9 @@ I am Carlie Yew, a Software Engineer(particularly in Web) graduated as Hons Degr
 
 
 # Moment
-- 🔭 I’m currently working on a close sourced Manufacturing Execution System.
+<!-- 🔭 I’m currently working on a close sourced Manufacturing Execution System.
 - 🌱 I’m currently learning Business Intelligence.
-- 👯 I’m looking for a place to learn knowledges and enchance my skillsets for my career life.
+- 👯 I’m looking for a place to learn knowledges and enchance my skillsets for my career life. -->
 - 📫 How to reach me: mailto:carlieyew@icloud.com
 
 <!--
